@@ -6,6 +6,7 @@ import Write from './pages/Write';
 import Profile from './pages/Profile';
 import Settings from './pages/Settings';
 
+
 function App() {
   return (
     <Router>
