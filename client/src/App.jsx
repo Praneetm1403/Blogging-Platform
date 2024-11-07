@@ -5,6 +5,11 @@ import Home from './pages/Home';
 import Write from './pages/Write';
 import Profile from './pages/Profile';
 import Settings from './pages/Settings';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init();
+
 
 
 function App() {
